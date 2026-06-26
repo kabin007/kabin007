@@ -68,7 +68,7 @@ I design and ship intelligent automation systems, AI-powered applications, and s
 
 ## 🤝 Let's Connect
 
-* 🌐 Portfolio: https://kabinghimire.onrender.com/
+* 🌐 Portfolio: https://kabin.is-a.dev
 * 💼 LinkedIn:  https://www.linkedin.com/in/kabin-ghimire-8564a721b/
 * 📧 Email:     ghimirekabin060@gmail.com
 
